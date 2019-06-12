@@ -32,7 +32,7 @@ public class SelectionSortExample {
             input[i] = input[min];
             input[min] = temp;
 
-            //next pls
+            
         }
 
     }
